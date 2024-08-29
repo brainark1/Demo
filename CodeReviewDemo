@@ -1,0 +1,11 @@
+
+public class CodeReviewDemo {
+
+	public static CodeReviewDemo createDemo() {
+		return new CodeReviewDemo();
+	}
+	
+	public void doSomething() {
+		System.out.println("Hello World!");
+	}
+}
